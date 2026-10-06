@@ -71,7 +71,7 @@ function diaEventoAhora () {
       icon: 'success',
       html:
         'INGRESÁ' +
-        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3540.3474585643817!2d-58.82862409999999!3d-27.4584402!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94456ca831249b8f%3A0x18c0bfd9559877bd!2sClub%20de%20Regatas%20Corrientes!5e0!3m2!1ses-419!2sar!4v1761174373050!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
+        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3340.2271999314958!2d-62.852869124598286!3d-33.155661682475504!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95cecb67fc1daf7f%3A0xd5264f71a8a4edf8!2s(Vilco%20)%2C%20Parrilla%2C%20Restaurante%20.!5e0!3m2!1ses!2sar!4v1791325280747!5m2!1ses!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>' +
         'Podes ampliar el mapa',
         
         
