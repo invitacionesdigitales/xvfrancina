@@ -217,6 +217,21 @@ margin-left: 68%;
     font-family: 'Great Vibes', cursive;
 }
 
+
+@keyframes flapLeft {
+  0% { transform: rotateY(0deg); }
+  100% { transform: rotateY(72deg); }
+}
+@keyframes flapRight {
+  0% { transform: rotateY(0deg); }
+  100% { transform: rotateY(-72deg); }
+}
+@keyframes floatHover {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(3px); }
+}
+
 .clik {
   margin-left: 36%;
   min-width: 130px;
